@@ -1,85 +1,70 @@
-<div align="center">
+# 👋 Hi, I'm Tarun!
 
-# 👋 Tarun V.S
+### 🚀 Aspiring Developer | 💻 Tech Enthusiast | 🎯 Always Learning
 
-### AI & Data Science Student • C++ & Python Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science;C%2B%2B+%7C+Java+%7C+Python;DSA+%7C+Web+Development;Build.+Learn.+Improve.+%F0%9F%9A%80" />
-
-## 🙋‍♀️ Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/tarunvs2712-cmd" target="_blank">
-<img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
-</a>
-
-<a href="https://github.com/tarunvs2712-cmd" target="_blank">
-<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:tarunvs2712@gmail.com" target="_blank">
-<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS"/>
-
-</div>
+I'm a passionate developer who loves exploring new technologies, building projects, and improving my skills every day.
 
 ---
-<div align="center">
 
-## 💻 About Me
+## 🧑‍💻 About Me
 
-<table>
-<tr>
+- 🔭 I'm currently working on improving my development skills
+- 🌱 I'm currently learning **Python, Java, and Web Development**
+- 💡 I enjoy building projects and solving problems
+- 🎯 My goal is to become a skilled software developer
+- 📫 How to reach me: **[Add your email here]**
 
-<td width="40%" align="center" valign="middle">
+---
 
-<img src="./nightlife.gif" alt="Lofi Nightlife" width="350">
+## 🛠️ Tech Stack
 
-</td>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-<td width="60%" valign="top">
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3>👨‍💻 About Me</h3>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-```cpp
-class Tarun {
-public:
+---
 
-    string focus = "AI & Data Science";
+## 📊 GitHub Stats
 
-    vector<string> languages = {
-        "C++",
-        "Python",
-    };
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-    vector<string> interests = {
-        "AI / ML",
-        "Data Science",
-        "DSA",
-        "Web Development"
-    };
-};
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-```
-</td> </tr> </table>
-</div>
+---
 
-<div align="center">
-	
-## 💻Tech Stack Languages
-<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" /> </p>
-Web
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,vite" /> </p>
-Database & Tools
-<p> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> </p>
-</div>
+## 🔥 GitHub Streak
 
-<div align="center">
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-<div align="center">
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](www.linkedin.com/in/tarun-v-s-274525425)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](_tarun.x_)
+
+<a href="mailto:tarunvs2712@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+### 💭 Quote
+
+> "The best way to predict the future is to create it."
+
+---
+
+⭐ **Thanks for visiting my profile!**
