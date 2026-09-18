@@ -80,33 +80,6 @@ Database & Tools
 </div>
 
 <div align="center">
-
-## 🧩LeetCode
-
-
-
-
 </div>
 
 <div align="center">
-
-## 🚀 My contributions! Whose <img src="https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width="30" height="30"> snake is this!? 😭
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tarunvs2712-cmd/tarunvs2712-cmd/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tarunvs2712-cmd/tarunvs2712-cmd/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/tarunvs2712-cmd/tarunvs2712-cmd/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<br><br>
-
-</div>
