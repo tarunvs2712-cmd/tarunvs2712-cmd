@@ -1,19 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm Tarun V.S
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-### 🤖 AI & Data Science Student | 💻 Developer | 🚀 Tech Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:00FFA3&height=220&section=header&text=Hi%20There!%20I'm%20Tarun%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2200&pause=600&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student+🤖;Python+%7C+C%2B%2B+%7C+Java+Developer+💻;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🧠;Turning+Ideas+Into+Projects+🚀;Always+Learning+Something+New+✨" alt="Typing Animation"/>
 
 <br><br>
 
-**🤖 AI & Data Science**  
-**🐍 Python Developer**  
-**💻 C++ & Java**  
-**📊 Data Science Enthusiast**
+<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/github/followers/tarunvs2712-cmd?label=FOLLOWERS&style=for-the-badge&color=6C63FF&logo=github" alt="Followers"/>
 
 </div>
 
@@ -21,41 +22,49 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm an **AI & Data Science student** passionate about technology and problem solving.
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
-💡 I enjoy exploring **Artificial Intelligence, Data Science and Software Development**.
+🎓 **AI & Data Science Student**
 
-🐍 Currently building projects with **Python**.
+🤖 Passionate about **Artificial Intelligence**
 
-⚡ Exploring **C++ and Java**.
+📊 Interested in **Data Science & Data Analytics**
 
-🌐 Learning **JavaScript and Web Development**.
+🐍 Building with **Python**
 
-🧠 Interested in using technology to solve real-world problems.
+⚡ Exploring **C++ & Java**
 
-🚀 My goal is simple:
+🌐 Learning **JavaScript & Web Development**
 
-> **Learn → Build → Improve → Repeat**
+🧠 Interested in solving **real-world problems**
+
+🚀 Turning ideas into **practical projects**
+
+📚 Always learning and improving
+
+<br clear="right"/>
 
 ---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Animated Divider"/>
+
+</div>
 
 ## ✨ My Philosophy
 
 <div align="center">
 
-### 🤝 CONNECT
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1600&pause=500&color=00FFA3&center=true&vCenter=true&width=700&lines=CONNECT+🤝;BUILD+🛠️;LEARN+📚;IMPROVE+📈;REPEAT+🔄" alt="Philosophy Animation"/>
 
-↓
+<br><br>
 
-### 🛠️ BUILD
+### 🤝 CONNECT &nbsp; | &nbsp; 🛠️ BUILD &nbsp; | &nbsp; 📈 IMPROVE
 
-↓
-
-### 📚 LEARN
-
-↓
-
-### 📈 IMPROVE
+> Connect with people  
+> Build meaningful projects  
+> Improve every single day
 
 </div>
 
@@ -67,13 +76,13 @@
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Programming Languages">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" alt="Programming Languages"/>
 
 <br><br>
 
-### 🌐 Web & Development
+### 🌐 Development & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="Development Tools">
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" alt="Development Tools"/>
 
 </div>
 
@@ -81,11 +90,15 @@
 
 ## 🚀 What I'm Exploring
 
+<div align="center">
+
 | 🤖 Artificial Intelligence | 📊 Data Science | 💻 Software Development |
 |:---:|:---:|:---:|
 | Machine Learning | Data Analysis | Problem Solving |
-| AI Applications | Data Visualization | Programming |
+| AI Applications | Visualization | Programming |
 | Intelligent Systems | Statistics | Web Technologies |
+
+</div>
 
 ---
 
@@ -93,93 +106,45 @@
 
 <div align="center">
 
-🤖 **Artificial Intelligence**
-
-⬇️
-
-🧠 **Machine Learning**
-
-⬇️
-
-📊 **Data Science**
-
-⬇️
-
-💻 **Software Development**
-
-⬇️
-
-🚀 **Real-World Projects**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=500&color=6C63FF&center=true&vCenter=true&width=750&lines=🤖+Artificial+Intelligence;🧠+Machine+Learning;📊+Data+Science;💻+Software+Development;🌐+Web+Technologies;🚀+Real-World+Projects" alt="Learning Animation"/>
 
 </div>
 
 ---
 
-## 📊 My GitHub
+# 📊 GitHub Journey
 
 <div align="center">
 
-<a href="https://github.com/tarunvs2712-cmd">
+<img src="https://github-readme-stats.vercel.app/api?username=tarunvs2712-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Statistics"/>
 
-<img src="https://img.shields.io/badge/GitHub-tarunvs2712--cmd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/tarunvs2712-cmd?label=GitHub%20Followers&style=for-the-badge&color=6C63FF&logo=github" alt="GitHub Followers">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunvs2712-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 📌 My Projects
+# 🔥 Contribution Streak
 
-### 🌦️ Weather Dashboard
+<div align="center">
 
-A weather dashboard built using **HTML, CSS and JavaScript**.
+<img src="https://streak-stats.demolab.com?user=tarunvs2712-cmd&theme=tokyonight&hide_border=true" width="70%" alt="Contribution Streak"/>
 
-<a href="https://github.com/tarunvs2712-cmd/weather-dashboard">
-
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
+</div>
 
 ---
 
-### 🌤️ SkyFetch Weather Dashboard
+# 🐍 My Contribution Snake
 
-A modern weather dashboard project using web technologies.
+<div align="center">
 
-<a href="https://github.com/tarunvs2712-cmd/skyfetch-weather-dashboard">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunvs2712-cmd/tarunvs2712-cmd/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarunvs2712-cmd/tarunvs2712-cmd/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/tarunvs2712-cmd/tarunvs2712-cmd/output/github-snake.svg" alt="GitHub Contribution Snake" width="90%">
+</picture>
 
-<img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
----
-
-### 🌾 Seasonal Agriculture Performance Analysis
-
-A **Python-based data analysis project** for understanding agricultural performance.
-
-<a href="https://github.com/tarunvs2712-cmd/Seasonal-Agriculture-Performance-Analysis">
-
-<img src="https://img.shields.io/badge/View%20Project-00FFA3?style=for-the-badge&logo=github&logoColor=black">
-
-</a>
-
----
-
-### 🏥 Healthcare Analytics — Doctor Visits
-
-A healthcare data analysis project focused on understanding patterns in doctor visits.
-
-<a href="https://github.com/tarunvs2712-cmd/Healthcare-Analytics-Doctor-Visits">
-
-<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
+</div>
 
 ---
 
@@ -187,15 +152,7 @@ A healthcare data analysis project focused on understanding patterns in doctor v
 
 <div align="center">
 
-### 💻 Code with Purpose
-
-### 📚 Learn with Curiosity
-
-### 🧠 Solve Real Problems
-
-### 🚀 Build with Passion
-
-### 🌱 Keep Growing
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Code+with+Purpose+💻;Learn+with+Curiosity+📚;Build+with+Passion+🔥;Solve+Real+Problems+🧠;Keep+Growing+🌱" alt="Belief Animation"/>
 
 </div>
 
@@ -203,9 +160,12 @@ A healthcare data analysis project focused on understanding patterns in doctor v
 
 ## 🎯 My Goals
 
+<div align="center">
+
 ```text
-AI & Machine Learning       ███████████████░░░░░
-Data Science                ██████████████░░░░░░
-Programming                 ████████████████░░░░
-Web Development             ████████████░░░░░░░░
-Problem Solving             █████████████████░░░
+🤖 Artificial Intelligence     ████████████████░░░░
+📊 Data Science                ███████████████░░░░░
+💻 Programming                 █████████████████░░░
+🌐 Web Development             ████████████░░░░░░░░
+🧠 Problem Solving             ██████████████████░░
+🚀 Project Building            █████████████████░░░
