@@ -1,40 +1,38 @@
-<!-- ========================================================= -->
-<!--                     ANIMATED HEADER                       -->
-<!-- ========================================================= -->
-
 <div align="center">
+
+<!-- ===================== HEADER ===================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:00FFA3&height=220&section=header&text=Hi%20There!%20I'm%20Tarun%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student+🤖;Python+%7C+C%2B%2B+%7C+Java+Developer+💻;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🧠;Turning+Ideas+Into+Projects+🚀;Always+Learning+Something+New+✨" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student+🤖;Python+%7C+C%2B%2B+%7C+Java+Developer+💻;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🧠;Turning+Ideas+Into+Projects+🚀;Always+Learning+Something+New+✨" alt="Typing SVG"/>
+</a>
 
 <br><br>
 
 <!-- PROFILE VIEWS -->
 
-<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
 
 &nbsp;
 
-<img src="https://img.shields.io/github/followers/tarunvs2712-cmd?label=FOLLOWERS&style=for-the-badge&color=6C63FF&logo=github" />
+<img src="https://img.shields.io/github/followers/tarunvs2712-cmd?label=FOLLOWERS&style=for-the-badge&color=6C63FF&logo=github"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                         ABOUT ME                          -->
-<!-- ========================================================= -->
+# 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **AI & Data Science Student**
 
-💡 Passionate about **Artificial Intelligence, Data Science & Software Development**
+🤖 Passionate about **Artificial Intelligence**
+
+📊 Interested in **Data Science & Data Analytics**
 
 🐍 Building with **Python**
 
@@ -42,19 +40,15 @@
 
 🌐 Learning **JavaScript & Web Development**
 
-🧠 Interested in solving **real-world problems through technology**
+🧠 Interested in solving **real-world problems**
 
-🚀 Always learning, building and improving
+🚀 Turning ideas into **practical projects**
 
-💻 Turning ideas into practical projects
+📚 Learning something new every day
 
 <br clear="right"/>
 
 ---
-
-<!-- ========================================================= -->
-<!--                    ANIMATED DIVIDER                       -->
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -64,17 +58,15 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                       PHILOSOPHY                          -->
-<!-- ========================================================= -->
-
-## ✨ My Philosophy
+# ✨ My Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=600&color=00FFA3&center=true&vCenter=true&width=700&lines=CONNECT+🤝;BUILD+🛠️;LEARN+📚;IMPROVE+📈;REPEAT+🔄" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=500&color=00FFA3&center=true&vCenter=true&width=700&lines=CONNECT+🤝;BUILD+🛠️;LEARN+📚;IMPROVE+📈;REPEAT+🔄" alt="Philosophy Animation"/>
+</a>
 
-<br>
+<br><br>
 
 ### 🤝 CONNECT &nbsp; | &nbsp; 🛠️ BUILD &nbsp; | &nbsp; 📈 IMPROVE
 
@@ -86,155 +78,85 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                       TECH STACK                          -->
-<!-- ========================================================= -->
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark"/>
 
 <br><br>
 
 ### 🌐 Development & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     WHAT I EXPLORE                        -->
-<!-- ========================================================= -->
-
-## 🚀 What I'm Exploring
+# 🚀 What I'm Exploring
 
 <div align="center">
 
 | 🤖 Artificial Intelligence | 📊 Data Science | 💻 Software Development |
 |:---:|:---:|:---:|
 | Machine Learning | Data Analysis | Problem Solving |
-| AI Applications | Visualization | Programming |
+| AI Applications | Data Visualization | Programming |
 | Intelligent Systems | Statistics | Web Technologies |
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                      CURRENT FOCUS                        -->
-<!-- ========================================================= -->
-
-## 🔭 Currently Learning
+# 🔭 Currently Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=750&lines=🤖+Artificial+Intelligence;📊+Data+Science;🧠+Machine+Learning;💻+Software+Development;🌐+Web+Technologies;🚀+Real-World+Projects" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=600&color=6C63FF&center=true&vCenter=true&width=750&lines=🤖+Artificial+Intelligence;📊+Data+Science;🧠+Machine+Learning;💻+Software+Development;🌐+Web+Technologies;🚀+Real-World+Projects" alt="Currently Learning"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                      GITHUB STATS                         -->
-<!-- ========================================================= -->
-
-## 📊 GitHub Journey
+# 📊 GitHub Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tarunvs2712-cmd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tarunvs2712-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunvs2712-cmd&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunvs2712-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                   CONTRIBUTION STREAK                     -->
-<!-- ========================================================= -->
-
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tarunvs2712-cmd&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=tarunvs2712-cmd&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                      GITHUB TROPHIES                      -->
-<!-- ========================================================= -->
-
-## 🏆 GitHub Trophies
+# 💡 What I Believe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tarunvs2712-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Code+with+Purpose+💻;Learn+with+Curiosity+📚;Build+with+Passion+🔥;Solve+Real+Problems+🧠;Keep+Growing+🌱" alt="What I Believe"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    ACTIVITY GRAPH                         -->
-<!-- ========================================================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunvs2712-cmd&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                     PROFILE DETAILS                       -->
-<!-- ========================================================= -->
-
-## 📌 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunvs2712-cmd&theme=tokyonight" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunvs2712-cmd&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarunvs2712-cmd&theme=tokyonight" />
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                    ANIMATED MESSAGE                       -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=💻+Code+%7C+📚+Learn+%7C+🤖+Explore+%7C+🚀+Build;Turning+Curiosity+Into+Creation+✨;One+Project+At+A+Time+🚀;Learning+Today+To+Build+Tomorrow+🌱" />
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                       PROFILE DATE                        -->
-<!-- ========================================================= -->
-
-## 📅 Profile Update
+# 📅 Profile
 
 <div align="center">
 
@@ -242,15 +164,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FFA3&center=true&vCenter=true&width=700&lines=Building+Today+🚀;Learning+Tomorrow+📚;Creating+The+Future+✨" />
+<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=TOTAL%20PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
 
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                       LET'S CONNECT                       -->
-<!-- ========================================================= -->
 
 # 🤝 Let's Connect
 
@@ -260,35 +178,35 @@
 
 ### 🚀 Want to build something?
 
-### 🤝 Let's connect and create something awesome!
+### 🤝 Let's create something awesome!
 
-<br><br>
+<br>
 
 <!-- GITHUB -->
 
-<a href="https://github.com/tarunvs2712-cmd" target="_blank">
+<a href="https://github.com/tarunvs2712-cmd">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <!-- LINKEDIN -->
 
-<a href="https://www.linkedin.com/in/tarun-v-s-274525425/" target="_blank">
+<a href="https://www.linkedin.com/in/tarun-v-s-274525425/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <!-- GMAIL -->
 
 <a href="mailto:tarunvs2712@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
@@ -296,32 +214,20 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                    CONTACT ANIMATION                      -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=750&lines=Let's+Connect+🤝;Let's+Build+Something+Amazing+🚀;Let's+Learn+Together+📚;Let's+Create+The+Future+✨" />
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<br>
-
-### 🌟 CONNECT &nbsp; | &nbsp; BUILD &nbsp; | &nbsp; IMPROVE 🚀
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!+👋;Let's+Connect+🤝;Let's+Build+Something+Amazing+🚀;Keep+Learning+📚;Keep+Building+💻;Keep+Growing+🌱" alt="Footer Animation"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C63FF,100:00FFA3&height=140&section=footer&animation=fadeIn"/>
+### 🌟 CONNECT &nbsp; | &nbsp; BUILD &nbsp; | &nbsp; IMPROVE 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C63FF,100:00FFA3&height=140&section=footer"/>
 
 </div>
