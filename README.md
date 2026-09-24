@@ -1,104 +1,85 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
+# 👋 Hi, I'm Tarun V.S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:00FFA3&height=220&section=header&text=Hi%20There!%20I'm%20Tarun%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+### 🤖 AI & Data Science Student | 💻 Developer | 🚀 Tech Enthusiast
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student+🤖;Python+%7C+C%2B%2B+%7C+Java+Developer+💻;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🧠;Turning+Ideas+Into+Projects+🚀;Always+Learning+Something+New+✨" alt="Typing SVG"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views">
 
 <br><br>
 
-<!-- PROFILE VIEWS -->
-
-<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/github/followers/tarunvs2712-cmd?label=FOLLOWERS&style=for-the-badge&color=6C63FF&logo=github"/>
+**🤖 AI & Data Science**  
+**🐍 Python Developer**  
+**💻 C++ & Java**  
+**📊 Data Science Enthusiast**
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🎓 I'm an **AI & Data Science student** passionate about technology and problem solving.
 
-🎓 **AI & Data Science Student**
+💡 I enjoy exploring **Artificial Intelligence, Data Science and Software Development**.
 
-🤖 Passionate about **Artificial Intelligence**
+🐍 Currently building projects with **Python**.
 
-📊 Interested in **Data Science & Data Analytics**
+⚡ Exploring **C++ and Java**.
 
-🐍 Building with **Python**
+🌐 Learning **JavaScript and Web Development**.
 
-⚡ Exploring **C++ & Java**
+🧠 Interested in using technology to solve real-world problems.
 
-🌐 Learning **JavaScript & Web Development**
+🚀 My goal is simple:
 
-🧠 Interested in solving **real-world problems**
-
-🚀 Turning ideas into **practical projects**
-
-📚 Learning something new every day
-
-<br clear="right"/>
+> **Learn → Build → Improve → Repeat**
 
 ---
+
+## ✨ My Philosophy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+### 🤝 CONNECT
+
+↓
+
+### 🛠️ BUILD
+
+↓
+
+### 📚 LEARN
+
+↓
+
+### 📈 IMPROVE
 
 </div>
 
 ---
 
-# ✨ My Philosophy
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=500&color=00FFA3&center=true&vCenter=true&width=700&lines=CONNECT+🤝;BUILD+🛠️;LEARN+📚;IMPROVE+📈;REPEAT+🔄" alt="Philosophy Animation"/>
-</a>
-
-<br><br>
-
-### 🤝 CONNECT &nbsp; | &nbsp; 🛠️ BUILD &nbsp; | &nbsp; 📈 IMPROVE
-
-> Connect with people  
-> Build meaningful projects  
-> Improve every single day
-
-</div>
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Programming Languages">
 
 <br><br>
 
-### 🌐 Development & Tools
+### 🌐 Web & Development
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="Development Tools">
 
 </div>
 
 ---
 
-# 🚀 What I'm Exploring
-
-<div align="center">
+## 🚀 What I'm Exploring
 
 | 🤖 Artificial Intelligence | 📊 Data Science | 💻 Software Development |
 |:---:|:---:|:---:|
@@ -106,128 +87,125 @@
 | AI Applications | Data Visualization | Programming |
 | Intelligent Systems | Statistics | Web Technologies |
 
-</div>
-
 ---
 
-# 🔭 Currently Learning
+## 🔭 Currently Learning
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=600&color=6C63FF&center=true&vCenter=true&width=750&lines=🤖+Artificial+Intelligence;📊+Data+Science;🧠+Machine+Learning;💻+Software+Development;🌐+Web+Technologies;🚀+Real-World+Projects" alt="Currently Learning"/>
-</a>
+🤖 **Artificial Intelligence**
 
-</div>
+⬇️
 
----
+🧠 **Machine Learning**
 
-# 📊 GitHub Journey
+⬇️
 
-<div align="center">
+📊 **Data Science**
 
-<img src="https://github-readme-stats.vercel.app/api?username=tarunvs2712-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+⬇️
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunvs2712-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%"/>
+💻 **Software Development**
 
-</div>
+⬇️
 
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tarunvs2712-cmd&theme=tokyonight&hide_border=true" width="70%"/>
+🚀 **Real-World Projects**
 
 </div>
 
 ---
 
-# 💡 What I Believe
+## 📊 My GitHub
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Code+with+Purpose+💻;Learn+with+Curiosity+📚;Build+with+Passion+🔥;Solve+Real+Problems+🧠;Keep+Growing+🌱" alt="What I Believe"/>
-</a>
-
-</div>
-
----
-
-# 📅 Profile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Last%20Updated-24%20September%202026-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=tarunvs2712-cmd&label=TOTAL%20PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### 💬 Have an idea?
-
-### 🚀 Want to build something?
-
-### 🤝 Let's create something awesome!
-
-<br>
-
-<!-- GITHUB -->
 
 <a href="https://github.com/tarunvs2712-cmd">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-tarunvs2712--cmd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<!-- LINKEDIN -->
-
-<a href="https://www.linkedin.com/in/tarun-v-s-274525425/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<!-- GMAIL -->
-
-<a href="mailto:tarunvs2712@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
+<img src="https://img.shields.io/github/followers/tarunvs2712-cmd?label=GitHub%20Followers&style=for-the-badge&color=6C63FF&logo=github" alt="GitHub Followers">
 
 </div>
 
 ---
 
-<div align="center">
+## 📌 My Projects
 
-<br>
+### 🌦️ Weather Dashboard
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!+👋;Let's+Connect+🤝;Let's+Build+Something+Amazing+🚀;Keep+Learning+📚;Keep+Building+💻;Keep+Growing+🌱" alt="Footer Animation"/>
+A weather dashboard built using **HTML, CSS and JavaScript**.
+
+<a href="https://github.com/tarunvs2712-cmd/weather-dashboard">
+
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
-<br><br>
+---
 
-### 🌟 CONNECT &nbsp; | &nbsp; BUILD &nbsp; | &nbsp; IMPROVE 🚀
+### 🌤️ SkyFetch Weather Dashboard
 
-<br>
+A modern weather dashboard project using web technologies.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C63FF,100:00FFA3&height=140&section=footer"/>
+<a href="https://github.com/tarunvs2712-cmd/skyfetch-weather-dashboard">
+
+<img src="https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+---
+
+### 🌾 Seasonal Agriculture Performance Analysis
+
+A **Python-based data analysis project** for understanding agricultural performance.
+
+<a href="https://github.com/tarunvs2712-cmd/Seasonal-Agriculture-Performance-Analysis">
+
+<img src="https://img.shields.io/badge/View%20Project-00FFA3?style=for-the-badge&logo=github&logoColor=black">
+
+</a>
+
+---
+
+### 🏥 Healthcare Analytics — Doctor Visits
+
+A healthcare data analysis project focused on understanding patterns in doctor visits.
+
+<a href="https://github.com/tarunvs2712-cmd/Healthcare-Analytics-Doctor-Visits">
+
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+---
+
+## 💡 What I Believe
+
+<div align="center">
+
+### 💻 Code with Purpose
+
+### 📚 Learn with Curiosity
+
+### 🧠 Solve Real Problems
+
+### 🚀 Build with Passion
+
+### 🌱 Keep Growing
 
 </div>
+
+---
+
+## 🎯 My Goals
+
+```text
+AI & Machine Learning       ███████████████░░░░░
+Data Science                ██████████████░░░░░░
+Programming                 ████████████████░░░░
+Web Development             ████████████░░░░░░░░
+Problem Solving             █████████████████░░░
